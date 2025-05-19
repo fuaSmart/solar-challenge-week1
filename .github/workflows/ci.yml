@@ -1,6 +1,5 @@
 name: CI Pipeline
-on: [push, pull_request] 
-
+on: [push]
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -12,5 +11,3 @@ jobs:
           python-version: '3.10'
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Verify Python
-        run: python --version
