@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": ["src"],
+    "files.exclude": {
+      "**/.ipynb_checkpoints": true,
+      "data/raw/": true
+    }
+  }
