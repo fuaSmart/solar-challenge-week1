@@ -1,4 +1,4 @@
-# 🌞 Solar Energy Analytics Dashboard
+# 🌞 Solar Energy Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%2B-orange)
