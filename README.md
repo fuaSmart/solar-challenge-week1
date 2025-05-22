@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-Apache_2.0-green)
 
 ## 📌 Project Overview
-A comprehensive analytics platform for evaluating solar energy potential across West Africa using meteorological data from Benin, Sierra Leone, and Togo. Developed as part of [Course/Organization Name]'s Solar Challenge Week 1.
+A comprehensive analytics platform for evaluating solar energy potential across West Africa using meteorological data from Benin, Sierra Leone, and Togo. Developed as part of KAIM's Solar Challenge Week 1.
 
 **Core Objectives**:
 - Analyze Global Horizontal Irradiance (GHI) patterns
